@@ -1,8 +1,8 @@
 # Info531
 
-+ Fonction1
++ Fonction1.
 ...Description.
-+ Fonction2
++ Fonction2.
 ...Description.
 ..1. ordonner quelques trucs
 11. verifier que ça marche
